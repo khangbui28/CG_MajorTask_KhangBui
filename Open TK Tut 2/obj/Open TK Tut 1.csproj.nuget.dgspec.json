@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gabek\\Desktop\\OpenTK INFR 1350\\Open TK Tut 2\\Open TK Tut 1\\Open TK Tut 1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabek\\Desktop\\OpenTK INFR 1350\\Open TK Tut 2\\Open TK Tut 1\\Open TK Tut 1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabek\\Desktop\\OpenTK INFR 1350\\Open TK Tut 2\\Open TK Tut 1\\Open TK Tut 1.csproj",
+        "projectName": "Open TK Tut 1",
+        "projectPath": "C:\\Users\\gabek\\Desktop\\OpenTK INFR 1350\\Open TK Tut 2\\Open TK Tut 1\\Open TK Tut 1.csproj",
+        "packagesPath": "C:\\Users\\gabek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabek\\Desktop\\OpenTK INFR 1350\\Open TK Tut 2\\Open TK Tut 1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open TK Tut 2", "Open TK Tut 2\Open TK Tut 2.csproj", "{FCD939B8-BC10-4B3E-8EAF-578FE1F10CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD939B8-BC10-4B3E-8EAF-578FE1F10CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD939B8-BC10-4B3E-8EAF-578FE1F10CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD939B8-BC10-4B3E-8EAF-578FE1F10CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD939B8-BC10-4B3E-8EAF-578FE1F10CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
